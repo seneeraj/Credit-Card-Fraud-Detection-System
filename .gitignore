@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large datasets
+*.csv
+*.zip
+
+# Exceptions (keep sample dataset)
+!fraudTrain_sample.csv
+
+# Model files (optional: comment if you want to upload)
+# *.pkl
+
+# Streamlit
+.streamlit/
