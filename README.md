@@ -1,11 +1,3 @@
-Perfect 👏 — this is what makes your project **look professional on GitHub**.
-
-Below are **ready-to-use files**. Just copy-paste them into your project.
-
----
-
-# 📄 1️⃣ README.md (Professional Version)
-
 ```markdown id="z6g3qv"
 # 💳 Credit Card Fraud Detection Dashboard
 
